@@ -4,9 +4,9 @@
 </p>
 
 
-  📧 <strong>Contacto:</strong> jesusleonelcastro11@gmail.com  
+  <strong>Contacto:</strong> jesusleonelcastro11@gmail.com  
   <br/>
-  📸 <strong>Instagram:</strong> <a href="https://instagram.com/leonell.castro" target="_blank">@leonell.castro</a>
+  <strong>Instagram:</strong> <a href="https://instagram.com/leonell.castro" target="_blank">@leonell.castro</a>
 
 
 ---
