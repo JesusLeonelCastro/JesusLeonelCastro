@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,git,github,azure,ubuntu,vscode,visualstudio,postman,androidstudio,atom,nodejs,sketchup" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,git,github,azure,ubuntu,vscode,visualstudio,postman,androidstudio,nodejs" />
 </p>
