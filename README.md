@@ -14,7 +14,7 @@
 ## TECNOLOGÍAS QUE MANEJO
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,php,java,python,cpp,c,cs,dotnet,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,php,java,python,cs,dotnet,kotlin" />
 </p>
 
 <p align="center">
