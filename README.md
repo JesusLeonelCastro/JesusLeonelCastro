@@ -1,20 +1,13 @@
-<p align="center">
-  <h3 align="center">Full Stack Developer</h3>
-    Hola, soy <strong>Leonel Castro</strong>, desarrollador Full Stack me gusta crear soluciones que con ayuda de la tecnología, transforman ideas en realidades. Me especializo en el desarrollo de aplicaciones web modernas, utilizando herramientas actuales que permiten construir productos rápidos, fáciles de mantener. Me mantengo en constante aprendizaje, me gusta colaborar en proyectos de todo tipo.. Estoy abierto a participar en iniciativas interesantes, startups  cualquier proyecto donde pueda aportar con código, creatividad y compromiso.
-</p>
-
 
   <strong>Contacto:</strong> jesusleonelcastro11@gmail.com  
   <br/>
   <strong>Instagram:</strong> <a href="https://instagram.com/leonell.castro" target="_blank">@leonell.castro</a>
 
-
 ---
-
-## TECNOLOGÍAS QUE MANEJO
+## 
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,php,java,python,cs,dotnet,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,php,java,python,cs,dotnet,kotlin" />
 </p>
 
 <p align="center">
