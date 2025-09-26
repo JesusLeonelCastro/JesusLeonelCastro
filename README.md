@@ -6,7 +6,6 @@
 ---
 ## 
 <br>
-<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,angular,vite,java,cs,dotnet" />
 </p>
