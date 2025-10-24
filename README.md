@@ -1,8 +1,6 @@
 
   <strong>Contacto:</strong> jesusleonelcastro11@gmail.com  
-  <br/>
   <strong>Instagram:</strong> <a href="https://instagram.com/leonell.castro" target="_blank">@leonel.castro</a>
-  <br/>
   <strong>Portafolio Web:</strong> <a href="https://leonellcastro.com" target="_blank">https://leonellcastro.com</a>
 ---
 ## 
