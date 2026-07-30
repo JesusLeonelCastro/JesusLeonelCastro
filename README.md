@@ -6,5 +6,4 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,azure,vscode,visualstudio,postman,nodejs,nest,spring " />
 </p>
 
-![](https://streak-stats.demolab.com?user=JesusLeonelCastro&theme=radical&hide_border=true)
 
