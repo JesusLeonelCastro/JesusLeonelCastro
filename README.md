@@ -6,7 +6,5 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,azure,vscode,visualstudio,postman,nodejs,nest,spring " />
 </p>
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusLeonelCastro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=C9D1D9&include_all_commits=true&rank_icon=percentile" />
-</div>
+![](https://streak-stats.demolab.com?user=JesusLeonelCastro&theme=radical&hide_border=true)
 
